@@ -276,6 +276,7 @@ Postsのページのタグは適当に付けると後々乱雑になって整理
 
 * [MathJax](http://www.mathjax.org/) を使ってTeX形式で数式を表現できます。
 
+
 ```
 Here is an example MathJax inline rendering \\( 1/x^{2} \\), and here is a block rendering: 
 \\[ \frac{1}{n^{2}} \\]
