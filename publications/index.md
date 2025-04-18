@@ -43,7 +43,7 @@ comments: false
 ## 国際会議
 1. Natsuki Tsutsui, Shohei Yokoyama, "Navigating Points of Interest: The Dog-Walker Pathfinding Algorithm", 12th International Conference on Geographical Information Systems Theory, Applications and Management, Porto, Portugal, 2025.4.1-3
 1. Hiroki Oda, Shohei Yokoyama, "Person Identification and Position Estimation with Multiple Moving Spherical Cameras", The 22nd International Conference on Advances in Mobile Computing & Multimedia Intelligence (MoMM2024), Bratislava Slovakia, 2024.12.2-4
-1. Takuro Ohashi, Shohei, Yokoyama, "Efficient moving object detection from Ultra-High Resolution omnidirectional video", The 22nd International Conference on Advances in Mobile Computing & Multimedia Intelligence (MoMM2024), Bratislava Slovakia, 2024.12.2-4
+1. Takuro Ohashi, Shohei Yokoyama, "Efficient moving object detection from Ultra-High Resolution omnidirectional video", The 22nd International Conference on Advances in Mobile Computing & Multimedia Intelligence (MoMM2024), Bratislava Slovakia, 2024.12.2-4
 1. Kento Yano, Shohei, Yokoyama, "Whose smartphone? Pairing each individual in the panoramic video with their respective smartphone", The 16th International Conference on Management of Digital EcoSystems (MEDES'24), NAPLE Italy, 2024.11.20
 1. Naoki Kitamura, Shohei Yokoyama, “Detecting Human-Human Interaction using Smartphons”, 4th International Conference on Computer Communication and Information Systems (CCCIS 2024), Virtual Conference, 2024.02.27-29
 1. Ahmed Almohanadi, Shohei Yokoyama, “Emoji Trends Between Abnormal Usage and Cultural Differences: A Case Study of Emojis” The Thirteenth International Conference on Social Media Technologies, Communication, and Informatics (SOTICS2023), Valencia Spain, 2023.11.15
