@@ -8,7 +8,7 @@ comments: false
 
 ## 学術論文誌(フルペーパー)
 1. 山下桜生, 横山昌平, “ジオタグ付きツイートを用いた好みに応じた経路推薦手法”, 情報処理学会論文誌データベース（TOD）, vol,17, No.1, pp.1-14, 2024.01
-1. Natsuki Fujiwara, Shohei Yokoyama, “Ownership protection system for partial areas on image data using Ethereum blockchain”, Internatiolal Jounal of Computer Science and Information Systems, Volume 20, Issue 4, 2023.09
+1. Natsuki Fujiwara, Shohei Yokoyama, “Ownership protection system for partial areas on image data using Ethereum blockchain”, International Journal of Computer Science and Information Systems, Volume 20, Issue 4, 2023.09
 1. 伊藤光太郎, 横山昌平, ”移動軌跡の交点を用いた密度クラスタリングアルゴリズム”, 情報処理学会論文誌データベース（TOD）,Vol. 14, No. 3, pp.1–15,2021.07
 1. 井嶋 蒼, 横山 昌平, "ロードマップを用いたジオソーシャルデータに対する効率的なクローリング手法", DBSJ Japanese Journal Vol.18-J, 2020.03
 1. 菅野 真生, 江原 遥, 廣田 雅春, 横山 昌平, 石川 博, "道路ネットワーク分析を用いた災害時における避難リスクの高い経路の可視化", DBSJ Journal Vol.15-J, 2017.6
