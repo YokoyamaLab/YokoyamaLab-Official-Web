@@ -7,7 +7,7 @@ comments: false
 
 
 ## 学術論文誌(フルペーパー)
-1. 井桁 広翔, 横山 ,昌平, “全天球カメラを用いた物体自動追尾ライブ配信”, 情報処理学会論文誌データベース（TOD）, Vol.18, No.2,  pp. 47-59, 2025.04.28
+1. 井桁 広翔, 横山 昌平, “全天球カメラを用いた物体自動追尾ライブ配信”, 情報処理学会論文誌データベース（TOD）, Vol.18, No.2,  pp. 47-59, 2025.04.28
 1. 山下桜生, 横山昌平, “ジオタグ付きツイートを用いた好みに応じた経路推薦手法”, 情報処理学会論文誌データベース（TOD）, vol,17, No.1, pp.1-14, 2024.01
 1. Natsuki Fujiwara, Shohei Yokoyama, “Ownership protection system for partial areas on image data using Ethereum blockchain”, International Journal of Computer Science and Information Systems, Volume 20, Issue 4, 2023.09
 1. 伊藤光太郎, 横山昌平, ”移動軌跡の交点を用いた密度クラスタリングアルゴリズム”, 情報処理学会論文誌データベース（TOD）,Vol. 14, No. 3, pp.1–15,2021.07
