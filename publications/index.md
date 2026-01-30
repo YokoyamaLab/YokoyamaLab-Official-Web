@@ -43,6 +43,7 @@ comments: false
 
 ## 国際会議
 1. Eiki Soeta, Shohei Yokoyama, "EmojiMap: Toward Multi-Feature Geographic Visualization with Social Media Data", The 17th International Conference on Management of Digital EcoSystems (MEDES'25), Ho Chi Minh, Viet Nam, 2025.11.25
+1. Simon Crepin Shohei Yokoyama, "Hybridization of Metaheuristic and Multi-Agent System for solving the tourist trip design problem: A literature review", The 1st International Workshop on Generative and Agentic AI for Multi-Modality Space-Time Intelligence, Minneapolis, MN, USA, 2025.11.03
 1. Natsuki Tsutsui, Shohei Yokoyama, "Navigating Points of Interest: The Dog-Walker Pathfinding Algorithm", 12th International Conference on Geographical Information Systems Theory, Applications and Management, Porto, Portugal, 2025.4.1-3
 1. Hiroki Oda, Shohei Yokoyama, "Person Identification and Position Estimation with Multiple Moving Spherical Cameras", The 22nd International Conference on Advances in Mobile Computing & Multimedia Intelligence (MoMM2024), Bratislava Slovakia, 2024.12.2-4
 1. Takuro Ohashi, Shohei Yokoyama, "Efficient moving object detection from Ultra-High Resolution omnidirectional video", The 22nd International Conference on Advances in Mobile Computing & Multimedia Intelligence (MoMM2024), Bratislava Slovakia, 2024.12.2-4
