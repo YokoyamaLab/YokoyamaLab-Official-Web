@@ -45,7 +45,7 @@ comments: false
 1. Junyu Xiao, Shohei Yokoyama, "Enhancing Temporal Stability in Small Object Detection:
 A Post-processing Approach for YOLOv8", 21st International Conference on Computer Vision Theory and Applications (VISAPP2026), Marbella, Spain, 2026.3.9-11
 1. Eiki Soeta, Shohei Yokoyama, "EmojiMap: Toward Multi-Feature Geographic Visualization with Social Media Data", The 17th International Conference on Management of Digital EcoSystems (MEDES'25), Ho Chi Minh, Viet Nam, 2025.11.25
-1. Simon Crepin Shohei Yokoyama, "Hybridization of Metaheuristic and Multi-Agent System for solving the tourist trip design problem: A literature review", The 1st International Workshop on Generative and Agentic AI for Multi-Modality Space-Time Intelligence, Minneapolis, MN, USA, 2025.11.03
+1. Simon Crepin, Shohei Yokoyama, "Hybridization of Metaheuristic and Multi-Agent System for solving the tourist trip design problem: A literature review", The 1st International Workshop on Generative and Agentic AI for Multi-Modality Space-Time Intelligence, Minneapolis, MN, USA, 2025.11.03
 1. Natsuki Tsutsui, Shohei Yokoyama, "Navigating Points of Interest: The Dog-Walker Pathfinding Algorithm", 12th International Conference on Geographical Information Systems Theory, Applications and Management, Porto, Portugal, 2025.4.1-3
 1. Hiroki Oda, Shohei Yokoyama, "Person Identification and Position Estimation with Multiple Moving Spherical Cameras", The 22nd International Conference on Advances in Mobile Computing & Multimedia Intelligence (MoMM2024), Bratislava Slovakia, 2024.12.2-4
 1. Takuro Ohashi, Shohei Yokoyama, "Efficient moving object detection from Ultra-High Resolution omnidirectional video", The 22nd International Conference on Advances in Mobile Computing & Multimedia Intelligence (MoMM2024), Bratislava Slovakia, 2024.12.2-4
@@ -113,7 +113,7 @@ A Post-processing Approach for YOLOv8", 21st International Conference on Compute
 1. 横山 昌平, 太田 学, 石川 博, "要素名圧縮によるXMLデータ圧縮手法の提案－Simplified Element XML－", 情報処理学会データベースシステム研究会　データベースとWeb情報システムに関する合同シンポジウム(WebDB2000), pp.331-338, 2000
 
 ## 研究会口頭発表(査読無)
-1. クレピン シモン, 横山 昌平, "A Distributed Multi-Meta Agent MTTDS Solver", 第18回データ工学と情報マネジメントに関するフォーラム(DEIM2026), 神戸国際会議場・展示場(兵庫県神戸市), 2026.02.28-03.05
+1. Simon Crepin, 横山 昌平, "A Distributed Multi-Meta Agent MTTDS Solver", 第18回データ工学と情報マネジメントに関するフォーラム(DEIM2026), 神戸国際会議場・展示場(兵庫県神戸市), 2026.02.28-03.05
 1. 相原 颯真, 横山 昌平, "Steamユーザーの口コミを利用したゲームのプレイ体験の効果的な可視化", 第18回データ工学と情報マネジメントに関するフォーラム(DEIM2026), 神戸国際会議場・展示場(兵庫県神戸市), 2026.02.28-03.05
 1. 高鍬 真輝, 横山 昌平, "Youtubeにおけるスポーツ応援スタイルの国・言語別分析", 第18回データ工学と情報マネジメントに関するフォーラム(DEIM2026), 神戸国際会議場・展示場(兵庫県神戸市), 2026.02.28-03.05
 1. 松村 歩空, 横山 昌平, "音楽ストリーミングサービスの統計情報を用いた楽曲歌詞の季節性分析", 第18回データ工学と情報マネジメントに関するフォーラム(DEIM2026), 神戸国際会議場・展示場(兵庫県神戸市), 2026.02.28-03.05
