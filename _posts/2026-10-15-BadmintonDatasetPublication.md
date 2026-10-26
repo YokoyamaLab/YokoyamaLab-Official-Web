@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "シャトルのYOLOデータセットを公開"
+title:  "シャトルのYOLOデータセット公開"
 date:   2026-10-15
+excerpt: "Insta360 X5におけるカスタマーデータセットを公開しました"
 tag:
 - データセット公開
 - 2026年度
